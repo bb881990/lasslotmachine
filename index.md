@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## LAS老虎机
 
-You can use the [editor on GitHub](https://github.com/bb881990/lasslotmachine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+LAS老虎机是一款有趣的老虎机小游戏，随时与朋友一起游玩娱乐。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 应用介绍
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bb881990/lasslotmachine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 联系我
+若对此应用有任何意见，请来信联系我：  
+e-mail:brownpetsen88@outlook.com
